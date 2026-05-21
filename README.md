@@ -18,3 +18,4 @@ Product listings, inventory management, and pricing rule engine.
 
 See `BUSINESS_RULES.md` for pricing and inventory rules.
 # accuracy test trigger
+# reindex
