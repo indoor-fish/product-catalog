@@ -20,3 +20,4 @@ See `BUSINESS_RULES.md` for pricing and inventory rules.
 # accuracy test trigger
 # reindex
 # reindex
+# reindex3
