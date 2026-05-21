@@ -17,3 +17,4 @@ Product listings, inventory management, and pricing rule engine.
 - None (leaf node for product data)
 
 See `BUSINESS_RULES.md` for pricing and inventory rules.
+# accuracy test trigger
